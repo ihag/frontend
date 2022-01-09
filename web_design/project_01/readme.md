@@ -58,7 +58,7 @@ section nav.others a.on {
 <br/>
 
 ### **결과**
-
+---
 
 ![image](desc/member1.png)|![image](desc/member2.png)|![image](desc/member3.png)|![image](desc/member4.png)
 -------------------------|------------------------|------------------------|------------------------|
