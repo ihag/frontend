@@ -27,7 +27,7 @@
 		</article>
 
 		<nav class="others">
-            ''' class on >> 선택한 프로필카드 버튼만 활성시키기 '''
+            <!-- class on : 선택한 프로필카드 버튼만 활성시키기 -->
 			<a href="member1.html" class="on"></a>
 			<a href="member2.html"></a>
 			<a href="member3.html"></a>
