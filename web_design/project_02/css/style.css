@@ -133,6 +133,9 @@ section .inner h1 {
 }
 section .inner .wrap {
 	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 section .inner .wrap::after {   /* article의 float 해제 */
 	content: "";
