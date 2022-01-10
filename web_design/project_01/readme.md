@@ -47,12 +47,14 @@
 	border-radius: 50%;
 	margin: 0px 10px;
 	opacity: 0.4;
-	filter: satruate(0.7);     ''' 활성화 되지 않은 버튼에 opacity 0.4, saturate(0.7) '''
+	filter: satruate(0.7);
+	/* 활성화 되지 않은 버튼에 opacity 0.4, saturate(0.7) */
 }
 
 section nav.others a.on {
 	opacity: 1;             
-	filter: saturate(1);       ''' 활성화 된 버튼에 opacity 1, saturate(1) '''
+	filter: saturate(1);
+	/* 활성화 된 버튼에 opacity 1, saturate(1) */
 }
 ```
 
