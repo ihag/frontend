@@ -145,4 +145,4 @@ section .inner .wrap article {
 
 ---
 ### **회고**
-header, figure, section, footer의 특성을 이해하고 레이아웃을 배치할 수 있게 됐다. css 문법에서 position 설정과 가상선택자를 이용한 float 해제를 새로 공부하고 적용해볼 수 있었다.
+header, figure, section, footer의 특성을 이해하고 레이아웃을 배치할 수 있게 됐다. css 문법에서 position 설정과 가상선택자를 이용한 float 해제를 새로 공부하고 적용해 볼 수 있었다.
